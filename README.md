@@ -66,21 +66,8 @@ by Economical & Political Freedom of a country
 Outcome: Analyzed each country position from 2008-2017 and suggest India, which attribute to focus on to improve its position for upcoming years 
 Key Skills: EDA | Handling multi-collinearity | Feature Selection | Linear Regression Sentiment Analysis 
 
-### Educartion 
+### Education 
 Arupadai Veedu Institute of Technology - Bachelor of Engineering – Mechanical Engineering · Mar. 2013 to July 2017 
 Great Lakes Institute of Management - Post Graduate Program in Data Science & Engineering · June 2020 to Aug. 2021 
-Great Lakes Institute of Management - Post Graduate Program in Artificial Intelligence & Machine Learning · Dec. 2023 to 
-Current 
-Objective: Using Natural Learning Process analyzing human sentiment for a marketing team 
-Outcome: Got overall score for Negative label assessment and positive label assessment 
-Key Skills: EDA | Bag of words | Count vector | TF-IDF | Stemming & Lemmatization | POS | NER | TextBlob | Affin | Classification Models 
-Liver Disease Classification 
-Objective: Objective is to divide into two groups (liver patient or not). This data set contains liver patient records and non-liver patient records. 
-Outcome: The prediction model helped in classifying the patients with or without disease based on certain medical conditions. 
-Key Skills: Logistic Regression | Decision Tree Classifier | Random Forest Classifier | KNN | GRID using Random and KNN Classifier | 
-Bagging and AdaBoost Classifier 
-Human Freedom Index Analysis 
-Objective: To predict and analyze the Human Freedom Index rank position for several countries. The Human freedom Index in determined 
-by Economical & Political Freedom of a country 
-Outcome: Analyzed each country position from 2008-2017 and suggest India, which attribute to focus on to improve its position for upcoming years 
-Key Skills: EDA | Handling multi-collinearity | Feature Selection | Linear Regression 
+Great Lakes Institute of Management - Post Graduate Program in Artificial Intelligence & Machine Learning · Dec. 2023 to Current 
+
